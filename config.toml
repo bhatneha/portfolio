@@ -1,0 +1,46 @@
+baseURL = "https://bhatneha.github.io/"
+languageCode = "en-us"
+title = "Neha Bhat"
+theme = "github.io"
+
+[params]
+    firstName = "Neha"
+    lastName = "Bhat"
+    address = "Bangalore, India"
+    phone = ""
+    contactNote = "Software Engineer"
+    profileImage = "img/neha-bhat.jpeg"
+    email = "nehasbhat97@gmail.com"
+    description = "Software Engineer with experience leveraging DevOps, CI/CD and likes automating everything which delays the work. With a motto Ideas in head and google in front can implement any solution. Lover of Open Source projects, eager to contribute for few such platforms. Love to create digital infrastructure as it can really change things on ground."
+    # what sections
+    showProjects = true
+    showSkills = true
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+    showBlog = true
+
+    showQr = true
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/neha-s-bhat/"
+
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/bhatneha"
+
+[[params.handles]]
+    name = "Stack Overflow"
+    link = "https://stackoverflow.com/users/story/15598532"
+    icon = "stack-overflow"
+
+[[params.handles]]
+    name = "Instagram"
+    link = "https://www.instagram.com/neha_bhat_/"
+    icon = "instagram"
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"

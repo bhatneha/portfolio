@@ -1,0 +1,87 @@
+[
+  {
+    "grouping": "Languages",
+    "skills": [
+      {
+        "name": "GoLang",
+        "link": "https://golang.org/"
+      },
+      {
+        "name": "VueJs",
+        "link": "https://vuejs.org/"
+      },
+      {
+        "name": "Java",
+        "link": "https://www.java.com/en/"
+      },
+      {
+        "name": "dotnet",
+        "link": "https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet"
+      }
+    ]
+  },
+  {
+    "grouping": "Containers, Orchestrator Components",
+    "skills": [
+      {
+        "name": "Docker",
+        "link": "https://docker.com"
+      },
+      {
+        "name": "Docker-Compose",
+        "link": "https://docs.docker.com/compose/"
+      },
+      {
+        "name": "Kubernetes",
+        "link": "https://kubernetes.io/"
+      },
+      {
+        "name": "Helm",
+        "link": "https://helm.sh/"
+      }
+    ]
+  },
+  {
+    "grouping": "Cloud Infrastructures",
+    "skills": [
+      {
+        "name": "AWS",
+        "link": "https://aws.amazon.com/"
+      }
+    ]
+  },
+  {
+    "grouping": "Continuous Integration Tools",
+    "skills": [
+      {
+        "name": "GitLab",
+        "link": "https://about.gitlab.com/"
+      },
+      {
+        "name": "Jenkins",
+        "link": "https://jenkins.io/"
+      }
+    ]
+  },
+  {
+    "grouping": "Versioning Tools",
+    "skills": [
+      {
+        "name": "github",
+        "link": "https://github.com/"
+      },
+      {
+        "name": "gitlab",
+        "link": "https://about.gitlab.com/"
+      }
+    ]
+  },
+  {
+    "grouping": "Markup and Templating",
+    "skills": [
+      "HTML",
+      "CSS",
+      "Go Templating"
+    ]
+  }
+]
